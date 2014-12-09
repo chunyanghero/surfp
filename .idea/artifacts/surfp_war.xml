@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="surfp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="surfp.war">
+      <element id="artifact" artifact-name="surfp:war exploded" />
+    </root>
+  </artifact>
+</component>
